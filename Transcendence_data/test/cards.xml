@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<card>
+		<Name>Duskmire Leech</Name>
+		<ID>81</ID>
+		<Image>duskmire_leech</Image>
+		<Description>There are things worse than mosquitoes in the muck beneath the Duskmire.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>0</Cost>
+		<Attack>1</Attack>
+		<Health>1</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Carrion Crawler</Name>
+		<ID>82</ID>
+		<Image>carrion_crawler</Image>
+		<Description>Give them a few hours and they'll eat everything but the heart.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>1</Cost>
+		<Attack>1</Attack>
+		<Health>2</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Faerie Dragon</Name>
+		<ID>83</ID>
+		<Image>faerie_dragon</Image>
+		<Description>They may not steal sheep or level towns, but they do have a nasty bite.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>1</Cost>
+		<Attack>2</Attack>
+		<Health>1</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Hunting Dog</Name>
+		<ID>84</ID>
+		<Image>hunting_dog</Image>
+		<Description>It takes more than a simple spell to throw off their scent.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>2</Cost>
+		<Attack>3</Attack>
+		<Health>2</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Kiirish Sellsword</Name>
+		<ID>85</ID>
+		<Image>kiirish_sellsword</Image>
+		<Description>A handful of gold for a sword by your side: not a bad trade if you have a lot of enemies.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>2</Cost>
+		<Attack>2</Attack>
+		<Health>3</Health>
+		<Defense>0.1</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Half-Dragon Bladespinner</Name>
+		<ID>86</ID>
+		<Image>half-dragon_bladespinner</Image>
+		<Description>It takes inhuman strength and precision to spin a blade for that long.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>3</Cost>
+		<Attack>3</Attack>
+		<Health>3</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Unstable Construct</Name>
+		<ID>87</ID>
+		<Image>unstable_construct</Image>
+		<Description>Assembled from rubble and pure energy, it could burst apart at the softest touch.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>3</Cost>
+		<Attack>3</Attack>
+		<Health>1</Health>
+		<Defense>0</Defense>
+		<Range>Ranged</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Dire Wolf</Name>
+		<ID>88</ID>
+		<Image>dire_wolf</Image>
+		<Description>Once you hear their howls, all you can do is pray they're after someone else.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>4</Cost>
+		<Attack>4</Attack>
+		<Health>5</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Greyhoof Pikeman</Name>
+		<ID>89</ID>
+		<Image>greyhoof_pikeman</Image>
+		<Description>More often than not, those who threaten the tribe find themselves on the end of a Greyhoof pike.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>4</Attack>
+		<Health>4</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Greyhoof Chieftan</Name>
+		<ID>90</ID>
+		<Image>greyhoof_chieftan</Image>
+		<Description>Strongest of all the centaur, he bested many to gain his title.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>4</Attack>
+		<Health>6</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Karani Shaman</Name>
+		<ID>91</ID>
+		<Image>karani_shaman</Image>
+		<Description>The Karani are timid explorers, except in the realm of voodoo magics.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>3</Attack>
+		<Health>5</Health>
+		<Defense>0</Defense>
+		<Range>Ranged</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Karani Packlord</Name>
+		<ID>92</ID>
+		<Image>karani_packlord</Image>
+		<Description>Pity those who threaten its kin.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>5</Attack>
+		<Health>4</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Giant Centipede</Name>
+		<ID>93</ID>
+		<Image>giant_centipede</Image>
+		<Description>What were they feeding that thing??</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>4</Attack>
+		<Health>7</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Fire Elemental</Name>
+		<ID>94</ID>
+		<Image>fire_elemental</Image>
+		<Description>They're born when spent mana merges with flame.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>6</Attack>
+		<Health>7</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Earth Elemental</Name>
+		<ID>95</ID>
+		<Image>earth_elemental</Image>
+		<Description>Even the ground beneath our feet can be changed with enough mana.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>5</Attack>
+		<Health>5</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Wind Elemental</Name>
+		<ID>96</ID>
+		<Image>wind_elemental</Image>
+		<Description>A swirling tempest starving for more energy, it was born of wind and mana.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>5</Attack>
+		<Health>2</Health>
+		<Defense>0.2</Defense>
+		<Range>Ranged</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Water Elemental</Name>
+		<ID>97</ID>
+		<Image>water_elemental</Image>
+		<Description>All that excess mana has to go somewhere. Next time don't wash your car with it.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>4</Attack>
+		<Health>5</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Hill Giant</Name>
+		<ID>98</ID>
+		<Image>hill_giant</Image>
+		<Description>They're as massive as a boulder. As smart as one too.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>7</Cost>
+		<Attack>7</Attack>
+		<Health>7</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Arakki Battlelord</Name>
+		<ID>99</ID>
+		<Image>arakki_battlelord</Image>
+		<Description>Master tacticians, the Arakki thrive on the front lines.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>7</Cost>
+		<Attack>9</Attack>
+		<Health>5</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Storm Giant</Name>
+		<ID>100</ID>
+		<Image>storm_giant</Image>
+		<Description>The winds pick up, the waves thrash about, and from the fog he emerges.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>8</Cost>
+		<Attack>8</Attack>
+		<Health>8</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Stone Giant</Name>
+		<ID>101</ID>
+		<Image>stone_giant</Image>
+		<Description>Besides the occasional meal, they spend most of their time lying dormant in caves.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>9</Cost>
+		<Attack>4</Attack>
+		<Health>12</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Gargantuan Treant</Name>
+		<ID>102</ID>
+		<Image>gargantuan_treant</Image>
+		<Description>Its duty is to protect the forests. They are usually quite passive, unless you start a fire.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>9</Cost>
+		<Attack>8</Attack>
+		<Health>8</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Chained Goliath</Name>
+		<ID>103</ID>
+		<Image>chained_goliath</Image>
+		<Description>They used to prey on humanity, now they're our slaves.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>10</Cost>
+		<Attack>10</Attack>
+		<Health>10</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Demigod</Name>
+		<ID>104</ID>
+		<Image>demigod</Image>
+		<Description>The power of a god with the temperment of a human. What could possibly go wrong?</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>11</Cost>
+		<Attack>9</Attack>
+		<Health>11</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Angry Walrus</Name>
+		<ID>105</ID>
+		<Image>angry_walrus</Image>
+		<Description>Roughly 15.4 times stronger than an average walrus.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>11</Cost>
+		<Attack>11</Attack>
+		<Health>8</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>Elder Dragon</Name>
+		<ID>106</ID>
+		<Image>elder_dragon</Image>
+		<Description>Its claws can pierce through stone; its roar can shatter bones.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>12</Cost>
+		<Attack>11</Attack>
+		<Health>10</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+	<card>
+		<Name>World Guardian</Name>
+		<ID>107</ID>
+		<Image>world_guardian</Image>
+		<Description>Built in The Forgotten Ages. They awaken when the world's fate is threatened.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>12</Cost>
+		<Attack>4</Attack>
+		<Health>20</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Slot</Target>
+	</card>
+</data-set>

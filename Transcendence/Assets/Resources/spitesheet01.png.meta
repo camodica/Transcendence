@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 2b1b6d990ea35054c81ff853032c6c69
+timeCreated: 1455050651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spitesheet01_0
+    21300002: spitesheet01_1
+    21300004: spitesheet01_2
+    21300006: spitesheet01_3
+    21300008: spitesheet01_4
+    21300010: spitesheet01_5
+    21300012: spitesheet01_6
+    21300014: spitesheet01_7
+    21300016: spitesheet01_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spitesheet01_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2091
+        width: 615
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.17467, y: 295.45593}
+        - {x: -210.17467, y: -294.54407}
+        - {x: 210.82533, y: -294.54407}
+        - {x: 210.82533, y: 295.45593}
+    - name: spitesheet01_1
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2091
+        width: 616
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.29733, y: 295.45593}
+        - {x: -210.29733, y: -294.54407}
+        - {x: 210.70267, y: -294.54407}
+        - {x: 210.70267, y: 295.45593}
+    - name: spitesheet01_2
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2091
+        width: 616
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.19867, y: 290.95593}
+        - {x: -210.19867, y: -290.04407}
+        - {x: 210.80133, y: -290.04407}
+        - {x: 210.80133, y: 290.95593}
+    - name: spitesheet01_3
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 2079
+        width: 615
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.17737, y: 294.76404}
+        - {x: -210.17737, y: -294.23596}
+        - {x: 210.82263, y: -294.23596}
+        - {x: 210.82263, y: 294.76404}
+    - name: spitesheet01_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1184
+        width: 615
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.17467, y: 294.77734}
+        - {x: -210.17467, y: -294.22266}
+        - {x: 210.82533, y: -294.22266}
+        - {x: 210.82533, y: 294.77734}
+    - name: spitesheet01_5
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1184
+        width: 616
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.29733, y: 294.77734}
+        - {x: -210.29733, y: -294.22266}
+        - {x: 210.70267, y: -294.22266}
+        - {x: 210.70267, y: 294.77734}
+    - name: spitesheet01_6
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1184
+        width: 616
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.19867, y: 294.77734}
+        - {x: -210.19867, y: -294.22266}
+        - {x: 210.80133, y: -294.22266}
+        - {x: 210.80133, y: 294.77734}
+    - name: spitesheet01_7
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1184
+        width: 615
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.17737, y: 290.77734}
+        - {x: -210.17737, y: -290.22266}
+        - {x: 210.82263, y: -290.22266}
+        - {x: 210.82263, y: 290.77734}
+    - name: spitesheet01_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 283
+        width: 615
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -210.17467, y: 294.69467}
+        - {x: -210.17467, y: -294.30533}
+        - {x: 210.82533, y: -294.30533}
+        - {x: 210.82533, y: 294.69467}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<card>
+		<Name>Hawkblade Honor Guard</Name>
+		<ID>1</ID>
+		<Image>hawkblade_honor_guard</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Cost>7</Cost>
+		<Attack>6</Attack>
+		<Health>7</Health>
+		<Defense>0.33</Defense>
+		<Ability>Protect</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Shadow Orb</Name>
+		<ID>2</ID>
+		<Image>shadow_orb</Image>
+		<Description>Deals 3 damage to 2 targets, chance to inflict fear</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+		<Ability>Multitarget:2,Fear:0.33</Ability>
+		<Target>Creature</Target>
+	</card>
+	<card>
+		<Name>Swap</Name>
+		<ID>3</ID>
+		<Image>swap</Image>
+		<Description>Swaps the positions of 2 allied creatures</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+		<Ability>Swap:2</Ability>
+		<Target>Friendly Creature</Target>
+	</card>
+	<card>
+		<Name>Skeletal Construct</Name>
+		<ID>4</ID>
+		<Image>skeletal_construct</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Cost>3</Cost>
+		<Attack>3</Attack>
+		<Health>3</Health>
+		<Defense>0</Defense>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Pious Zealot</Name>
+		<ID>5</ID>
+		<Image>pious_zealot</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Cost>4</Cost>
+		<Attack>3</Attack>
+		<Health>3</Health>
+		<Ability>Heal:1,2</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Exemplar of Radiance</Name>
+		<ID>6</ID>
+		<Image>exemplar_of_radiance</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Cost>8</Cost>
+		<Attack>6</Attack>
+		<Health>7</Health>
+		<Defense>0.33</Defense>
+		<Ability>Protect, Heal:1,2</Ability>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Athaliah, the Revered Adjudicator </Name>
+		<ID>7</ID>
+		<Image>athaliah</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Cost>13</Cost>
+		<Attack>10</Attack>
+		<Health>13</Health>
+		<Ability>Aura:Heal:Group,1</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Razark, Eradicator of the Meek</Name>
+		<ID>8</ID>
+		<Image>razark</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Cost>13</Cost>
+		<Attack>13</Attack>
+		<Health>10</Health>
+		<Ability>Aura:Damage:OppositeGroup,1</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Hollow Faceeater</Name>
+		<ID>9</ID>
+		<Image>hollow_faceeater</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Cost>3</Cost>
+		<Attack>2</Attack>
+		<Health>3</Health>
+		<Ability>Aura:Damage:Opposite,Health</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Fallen Angel</Name>
+		<ID>10</ID>
+		<Image>fallen_angel</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Darkruin Gargoyle</Name>
+		<ID>11</ID>
+		<Image>darkruin_gargoyle</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Tortured Soul</Name>
+		<ID>12</ID>
+		<Image>tortured_soul</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Lightwhisper Monk</Name>
+		<ID>13</ID>
+		<Image>lightwhisper_monk</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<ID>14</ID>
+	</card>
+	<card>
+		<ID>15</ID>
+	</card>
+	<card>
+		<Name>Lightwhisper Guardian</Name>
+		<ID>16</ID>
+		<Image>lightwhisper_guardian</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Vampire Servant</Name>
+		<ID>17</ID>
+		<Image>vampire_servant</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Baron Godfrey</Name>
+		<ID>18</ID>
+		<Image>baron_godfrey</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Mindless Bloodseeker</Name>
+		<ID>19</ID>
+		<Image>mindless_bloodseeker</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Ability>Enrage</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Battlelord</Name>
+		<ID>20</ID>
+		<Image>battlelord</Image>
+	</card>
+	<card>
+		<Name>Warpriest</Name>
+		<ID>21</ID>
+		<Image>warpriest</Image>
+	</card>
+	<card>
+		<Name>Darkruin Sentry</Name>
+		<ID>22</ID>
+		<Image>darkruin_sentry</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Shadewood Stalker</Name>
+		<ID>23</ID>
+		<Image>shadewood_stalker</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<ID>24</ID>
+	</card>
+	<card>
+		<Name>Bloodsated Slayer</Name>
+		<ID>25</ID>
+		<Image>bloodsated_slayer</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Sunbathed Cleric</Name>
+		<ID>26</ID>
+		<Image>sunbathed_cleric</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Silver Covenant Acolyte</Name>
+		<ID>27</ID>
+		<Image>silver_covenant_acolyte</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Hawkblade Crossbowman</Name>
+		<ID>28</ID>
+		<Image>hawkblade_crossbowman</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Lightstep Archer</Name>
+		<ID>29</ID>
+		<Image>lightstep_archer</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Guardian Angel</Name>
+		<ID>30</ID>
+		<Image>guardian_angel</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Lightstep Warden</Name>
+		<ID>31</ID>
+		<Image>lightstep_warden</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Silver Covenant Priest</Name>
+		<ID>32</ID>
+		<Image>silver_covenant_priest</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Creature</Type>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Duskmire Huntress</Name>
+		<ID>33</ID>
+		<Image>duskmire_huntress</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Creature</Type>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Warpriest</Name>
+		<ID>34</ID>
+		<Image>warpriest</Image>
+	</card>
+	<card>
+		<Name>Blood Ritual</Name>
+		<ID>35</ID>
+		<Image>blood_ritual</Image>
+		<Description>Deals 2 damage to all friendly creatures on a node, then deals that damage to an enemy target</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Boon</Type>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Divine Omen</Name>
+		<ID>36</ID>
+		<Image>divine_omen</Image>
+		<Description>Drains all remaining mana (x), heals creature for 2 damage at the end of each round for x rounds</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Inspire</Name>
+		<ID>37</ID>
+		<Image>inspire</Image>
+		<Description>Gives friendly creatures +2 attack for 1 turn</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Hallowed Ground</Name>
+		<ID>38</ID>
+		<Image>hallowed_ground</Image>
+		<Description>No new enemy creatures can enter target node during daytime for 3 rounds</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Sun Corona</Name>
+		<ID>39</ID>
+		<Image>sun_corona</Image>
+		<Description>Deals 4 damage to all enemy creatures on target node. Can only be used during day.</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Divine Blessing</Name>
+		<ID>40</ID>
+		<Image>divine_blessing</Image>
+		<Description>Target friendly creature gains +2/+3</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Rally</Name>
+		<ID>41</ID>
+		<Image>rally</Image>
+		<Description>Draws the next two creatures in your deck</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Purify</Name>
+		<ID>42</ID>
+		<Image>purify</Image>
+		<Description>Removes all debuffs from target creature.</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Smite</Name>
+		<ID>43</ID>
+		<Image>smite</Image>
+		<Description>Deals 6 damage.</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Elusive</Name>
+		<ID>44</ID>
+		<Image>elusive</Image>
+		<Description>Friendly creature's next attack ignores guards.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Drain Soul</Name>
+		<ID>45</ID>
+		<Image>drain_soul</Image>
+		<Description>Deals 4 damage, heals friendly creature for 2.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Tides of Chaos</Name>
+		<ID>46</ID>
+		<Image>tides_of_chaos</Image>
+		<Description>Enemy creatures in target node take 2 damage during nighttime for 5 rounds</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Shadow Barrage</Name>
+		<ID>47</ID>
+		<Image>shadow_barrage</Image>
+		<Description>Deals 6 damage to all enemies in node.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Chain Spirit</Name>
+		<ID>48</ID>
+		<Image>chain_spirit</Image>
+		<Description>Target creature cannot be brought below 1 hp this round.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Delirium</Name>
+		<ID>49</ID>
+		<Image>delirium</Image>
+		<Description>Target creature cannot attune and has a 0.33 chance to attack the wrong enemy for 2 rounds.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Fiendish Resilience</Name>
+		<ID>50</ID>
+		<Image>fiendish_resilience</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Beguiling Strike</Name>
+		<ID>51</ID>
+		<Image>beguiling_strike</Image>
+		<Description>Target creature's next attack inflicts fear.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Thristing Spear</Name>
+		<ID>52</ID>
+		<Image>thirsting_spear</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Death Whisper</Name>
+		<ID>53</ID>
+		<Image>death_whisper</Image>
+		<Description>Target creature takes 8 damage if isolated, or half that if in a group.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Fleshmelting Bolt</Name>
+		<ID>54</ID>
+		<Image>fleshmelting_bolt</Image>
+		<Description>Deals 3 damage for 3 rounds.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Fireball</Name>
+		<ID>55</ID>
+		<Image>fireball</Image>
+		<Description>Deals 8 damage.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Grim Transformation</Name>
+		<ID>56</ID>
+		<Image>grim_transformation</Image>
+		<Description>Target friendly creature gains +3/+2</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Mending Touch</Name>
+		<ID>57</ID>
+		<Image>mending_touch</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Bane</Name>
+		<ID>58</ID>
+		<Image>bane</Image>
+		<Description>Deals 2 damage.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Fear</Name>
+		<ID>59</ID>
+		<Image>fear</Image>
+		<Description>Deals 1 damage and inflicts fear.</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Silence</Name>
+		<ID>60</ID>
+		<Image>silence</Image>
+		<Description>Target creature is silenced.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Restoration</Name>
+		<ID>61</ID>
+		<Image>restoration</Image>
+		<Description>Target creature heals 3 health for 2 rounds.</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Sacred Flame</Name>
+		<ID>62</ID>
+		<Image>sacred_flame</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Sanctuary</Name>
+		<ID>63</ID>
+		<Image>sanctuary</Image>
+		<Description>Friendly creatures in target node take no damage this round.</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Clairvoyance</Name>
+		<ID>64</ID>
+		<Image>clairvoyance</Image>
+		<Description>View the top 2 cards of your opponent's deck.</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Cure Wounds</Name>
+		<ID>65</ID>
+		<Image>cure_wounds</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Heroism</Name>
+		<ID>66</ID>
+		<Image>heroism</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Great Storm</Name>
+		<ID>67</ID>
+		<Image>great_storm</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Thunderwave</Name>
+		<ID>68</ID>
+		<Image>thunderwave</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Earthquake</Name>
+		<ID>69</ID>
+		<Image>earthquake</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Daybreak</Name>
+		<ID>70</ID>
+		<Image>daybreak</Image>
+		<Description>Changes time to Day</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Shroud of Night</Name>
+		<ID>71</ID>
+		<Image>shroud_of_night</Image>
+		<Description>Changes time to Night</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Wish</Name>
+		<ID>72</ID>
+		<Image>wish</Image>
+		<Alliance>Temple</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Hand of Death</Name>
+		<ID>73</ID>
+		<Image>hand_of_death</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Hex</Name>
+		<ID>74</ID>
+		<Image>hex</Image>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Banish</Name>
+		<ID>75</ID>
+		<Image>banish</Image>
+		<Description>Target creature returns to your opponent's hand and costs 2 more (but not above 12).</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Blight</Name>
+		<ID>76</ID>
+		<Image>blight</Image>
+		<Description>Target creature is returned to your opponent</Description>
+		<Alliance>Citadel</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>True Strike</Name>
+		<ID>77</ID>
+		<Image>true_strike</Image>
+		<Description>Target creature's next attack deals double damage</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Sunburst</Name>
+		<ID>78</ID>
+		<Image>sunburst</Image>
+		<Description>A shining burst of 5 damage</Description>
+		<Alliance>Temple</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Remain Vigilant</Name>
+		<ID>79</ID>
+		<Image>remain_vigilant</Image>
+		<Description>Target friendly creature guards</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Spell</Type>
+	</card>
+	<card>
+		<Name>Form Ranks</Name>
+		<ID>80</ID>
+		<Image>form_ranks</Image>
+		<Description>All friendly creatures may move positions</Description>
+		<Alliance>Neutral</Alliance>
+		<Type>Boon</Type>
+	</card>
+	<card>
+		<Name>Duskmire Leech</Name>
+		<ID>81</ID>
+		<Image>duskmire_leech</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>0</Cost>
+		<Attack>1</Attack>
+		<Health>1</Health>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Carrion Crawler</Name>
+		<ID>82</ID>
+		<Image>carrion_crawler</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>1</Cost>
+		<Attack>1</Attack>
+		<Health>2</Health>
+		<Ability>lowx</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Faerie Dragon</Name>
+		<ID>83</ID>
+		<Image>faerie_dragon</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>1</Cost>
+		<Attack>2</Attack>
+		<Health>1</Health>
+		<Ability>lowx</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Hunting Dog</Name>
+		<ID>84</ID>
+		<Image>hunting_dog</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>2</Cost>
+		<Attack>3</Attack>
+		<Health>2</Health>
+		<Ability>lowx</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Kiirish Sellsword</Name>
+		<ID>85</ID>
+		<Image>kiirish_sellsword</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>2</Cost>
+		<Attack>2</Attack>
+		<Health>3</Health>
+		<Ability>lowx</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Half-Dragon Bladespinner</Name>
+		<ID>86</ID>
+		<Image>half-dragon_bladespinner</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>3</Cost>
+		<Attack>3</Attack>
+		<Health>3</Health>
+		<Ability>lowx</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Unstable Construct</Name>
+		<ID>87</ID>
+		<Image>unstable_construct</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>3</Cost>
+		<Attack>3</Attack>
+		<Health>1</Health>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Dire Wolf</Name>
+		<ID>88</ID>
+		<Image>dire_wolf</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>4</Cost>
+		<Attack>4</Attack>
+		<Health>5</Health>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Greyhoof Pikeman</Name>
+		<ID>89</ID>
+		<Image>greyhoof_pikeman</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>4</Attack>
+		<Health>4</Health>
+		<Ability>x</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Greyhoof Chieftan</Name>
+		<ID>90</ID>
+		<Image>greyhoof_chieftan</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>4</Attack>
+		<Health>6</Health>
+		<Ability>x</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Karani Shaman</Name>
+		<ID>91</ID>
+		<Image>karani_shaman</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>3</Attack>
+		<Health>5</Health>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Karani Packlord</Name>
+		<ID>92</ID>
+		<Image>karani_packlord</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>5</Cost>
+		<Attack>5</Attack>
+		<Health>4</Health>
+		<Ability>x</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Giant Centipede</Name>
+		<ID>93</ID>
+		<Image>giant_centipede</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>4</Attack>
+		<Health>7</Health>
+		<Ability>lowx</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Fire Elemental</Name>
+		<ID>94</ID>
+		<Image>fire_elemental</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>6</Attack>
+		<Health>7</Health>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Earth Elemental</Name>
+		<ID>95</ID>
+		<Image>earth_elemental</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>5</Attack>
+		<Health>5</Health>
+		<Ability>x</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Wind Elemental</Name>
+		<ID>96</ID>
+		<Image>wind_elemental</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>5</Attack>
+		<Health>2</Health>
+		<Ability>chargex</Ability>
+		<Range>Ranged</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Water Elemental</Name>
+		<ID>97</ID>
+		<Image>water_elemental</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>6</Cost>
+		<Attack>4</Attack>
+		<Health>5</Health>
+		<Ability>multihit</Ability>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Hill Giant</Name>
+		<ID>98</ID>
+		<Image>hill_giant</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>7</Cost>
+		<Attack>7</Attack>
+		<Health>7</Health>
+		<Range>Melee</Range>
+		<Target>Zone</Target>
+	</card>
+	<card>
+		<Name>Arakki Battlelord</Name>
+		<ID>99</ID>
+		<Image>arakki_battlelord</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>7</Cost>
+		<Attack>9</Attack>
+		<Health>5</Health>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Storm Giant</Name>
+		<ID>100</ID>
+		<Image>storm_giant</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>8</Cost>
+		<Attack>8</Attack>
+		<Health>8</Health>
+		<Ability>x</Ability>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Stone Giant</Name>
+		<ID>101</ID>
+		<Image>stone_giant</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>9</Cost>
+		<Attack>4</Attack>
+		<Health>12</Health>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Gargantuan Treant</Name>
+		<ID>102</ID>
+		<Image>gargantuan_treant</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>9</Cost>
+		<Attack>8</Attack>
+		<Health>8</Health>
+		<Ability>x (better than storm)</Ability>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Chained Goliath</Name>
+		<ID>103</ID>
+		<Image>chained_goliath</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>10</Cost>
+		<Attack>10</Attack>
+		<Health>10</Health>
+		<Ability>Unmovable</Ability>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Demigod</Name>
+		<ID>104</ID>
+		<Image>demigod</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>11</Cost>
+		<Attack>9</Attack>
+		<Health>11</Health>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Angry Walrus</Name>
+		<ID>105</ID>
+		<Image>angry_walrus</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>11</Cost>
+		<Attack>11</Attack>
+		<Health>8</Health>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Elder Dragon</Name>
+		<ID>106</ID>
+		<Image>elder_dragon</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>12</Cost>
+		<Attack>11</Attack>
+		<Health>10</Health>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>World Guardian</Name>
+		<ID>107</ID>
+		<Image>world_guardian</Image>
+		<Alliance>Neutral</Alliance>
+		<Type>Creature</Type>
+		<Cost>12</Cost>
+		<Attack>4</Attack>
+		<Health>20</Health>
+		<Range>Melee</Range>
+	</card>
+	<card>
+		<Name>Arakki Bladewarden</Name>
+		<Image>arakki_bladewarden</Image>
+	</card>
+	<card/>
+</data-set>

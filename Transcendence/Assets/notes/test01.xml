@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set>
+	<card name="Umbrite" ID="1" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="1" attack="1" health="1" defense="0" range="Melee" target="Slot"/>
+	<card name="Dark Prism" ID="2" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="1" attack="1" health="2" defense="0" range="Melee" target="Slot"/>
+</data-set>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <card>
+       <Name>Hawkblade Honor Guard</Name>
+       <Image>hawkblade_honor_guard</Image>
+	<Description>A member of Terib Alak's honor guard</Description>
+	<ID>1</ID>
+       <Alliance>Citadel</Alliance>
+       <Type>Creature</Type>
+	<Cost>11</Cost>
+	<Attack>4</Attack>
+	<Health>8</Health>
+	<Defense>0.33</Defense>
+	<Ability>Protect</Ability>
+	<Target>Zone</Target>
+	<Range>Melee</Range>
+    </card>
+    <card>
+       <Name>Hawkblade Honor Guard2</Name>
+       <Image>hawkblade_honor_guard2</Image>
+	<ID>2</ID>
+	<Description>A member of Terib Alak's honor guard2</Description>
+       <Alliance>Citadel2</Alliance>
+       <Type>Creature2</Type>
+	<Cost>112</Cost>
+	<Attack>42</Attack>
+	<Health>82</Health>
+	<Defense>0.33</Defense>
+	<Ability>Protect2</Ability>
+	<Target>Zone</Target>
+	<Range>Melee</Range>
+    </card>
+</data-set>

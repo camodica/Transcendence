@@ -1,0 +1,22 @@
+Deck Class Notes
+=================================
+
+Useful Methods/Variables of Decks:
+
+Size
+**Shuffle and Shuffled Deck Array
+Poll/Peek
+**Sort
+
+
+
+
+Add Cards
+Discard Array
+Current Cards Array
+Reset Deck To Pre-Game State
+
+
+**Serialize Object (Save Deck)
+
+

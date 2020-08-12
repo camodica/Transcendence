@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set>
+	<card name="Umbrite" ID="1" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="1" attack="1" health="1" defense="0" range="Melee" target="Slot" effect="Battlecry(Draw(1))" rarity="Common"/>
+	<card name="Dark Prism" ID="2" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="1" attack="1" health="2" defense="0" range="Melee" target="Slot" rarity="Common"/>
+	<card name="Hawkblade Apprentice" ID="3" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="2" attack="3" health="2" defense="0" range="Melee" target="Slot" rarity="Common"/>
+	<card name="Shadewood Stalker" ID="4" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="2" attack="2" health="3" defense="0" range="Melee" target="Slot" effect="Stealth" rarity="Rare"/>
+	<card name="Tortured Soul" ID="5" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="2" attack="3" health="4" defense="0" range="Melee" target="Slot" effect="Decay(0,1)" rarity="Rare"/>
+	<card name="Hawkblade Crossbowman" ID="6" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="3" attack="3" health="2" defense="0" range="Ranged" target="Slot" effect="Ranged" rarity="Common"/>
+	<card name="Hollow Faceeater" ID="7" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="3" attack="2" health="3" defense="0" range="Melee" target="Slot" effect="Weaken(1,0)" rarity="Common"/>
+	<card name="Skeletal Construct" ID="8" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="3" attack="3" health="3" defense="0" range="Melee" target="Slot" rarity="Common"/>
+	<card name="Vampire Servant" ID="9" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="3" attack="2" health="3" defense="0" range="Melee" target="Slot" effect="Bloodthirsty(1)" rarity="Common"/>
+	<card name="Bloodsated Slayer" ID="10" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="4" attack="5" health="3" defense="0" range="Melee" target="Slot" effect="OnKill(0,1)" rarity="Epic"/>
+	<card name="Duskmire Huntress" ID="11" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="4" attack="4" health="3" defense="0" range="Ranged" target="Slot" effect="Ranged" rarity="Common"/>
+	<card name="Fallen Angel" ID="12" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="4" attack="3" health="4" defense="0" range="Melee" target="Slot" effect="Battlecry(Heal(1))" rarity="Rare"/>
+	<card name="Mindless Bloodseeker" ID="13" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="5" attack="5" health="4" defense="0" range="Melee" target="Slot" effect="Bloodthirsty(1)" rarity="Common"/>
+	<card name="Blackshard Messenger" ID="14" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="5" attack="3" health="5" defense="0" range="Melee" target="Slot" rarity="Rare"/>
+	<card name="Darkruin Gargoyle" ID="15" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="6" attack="5" health="5" defense="0" range="Melee" target="Slot" effect="Armor(1)" rarity="Common"/>
+	<card name="Runeshard Imposter" ID="16" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="6" attack="6" health="6" defense="0" range="Melee" target="Slot" rarity="Epic"/>
+	<card name="Hawkblade Honor Guard" ID="17" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="7" attack="6" health="7" defense="0" range="Melee" target="Slot" rarity="Rare"/>
+	<card name="Living Blade" ID="18" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="7" attack="8" health="5" defense="0" range="Melee" target="Slot" effect="Assassinate(99,&gt;=5)" rarity="Common"/>
+	<card name="Baron Godfrey" ID="19" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="8" attack="9" health="8" defense="0" range="Melee" target="Slot" effect="Bloodthirsty(3)" rarity="Legendary"/>
+	<card name="Scourgemoon Elder" ID="20" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="8" attack="8" health="9" defense="0" range="Melee" target="Slot" rarity="Rare"/>
+	<card name="Darkruin Sentry" ID="21" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="9" attack="7" health="11" defense="0" range="Melee" target="Slot" rarity="Common"/>
+	<card name="Nightblade" ID="22" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="9" attack="9" health="9" defense="0" range="Melee" target="Slot" rarity="Rare"/>
+	<card name="Lord of Corruption" ID="23" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="10" attack="9" health="9" defense="0" range="Melee" target="Slot" rarity="Epic"/>
+	<card name="Gatekeeper" ID="24" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="10" attack="8" health="9" defense="0" range="Melee" target="Slot" rarity="Common"/>
+	<card name="Deathspeaker" ID="25" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="11" attack="8" health="8" defense="0" range="Melee" target="Slot" rarity="Common"/>
+	<card name="Edriak, Godkiller" ID="26" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="11" attack="5" health="11" defense="0" range="Melee" target="Slot" effect="Bloodfury(5);Decay(2)" rarity="Legendary"/>
+	<card name="Razark, Eradicator of the Meek" ID="27" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="12" attack="7" health="9" defense="0" range="Melee" target="Slot" effect="OnKill(2,0)" rarity="Legendary"/>
+	<card name="The Citadel" ID="28" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Citadel" type="Creature" cost="12" attack="0" health="25" defense="0" range="Melee" target="Slot" effect="Aura(+Vigilant, +Armor2)" rarity="Legendary"/>
+	<card name="Banish" ID="29" description="Target creature returns to your opponent's hand and costs 2 more (but not above 12)." alliance="Citadel" type="Boon" rarity="Rare"/>
+	<card name="Blood Ritual" ID="30" description="Deals 2 damage to all friendly creatures on a node, then deals that damage to an enemy target" alliance="Citadel" type="Boon" target="Slot" rarity="Rare"/>
+	<card name="Shroud of Night" ID="31" description="Changes time to Night" alliance="Citadel" type="Boon" rarity="Common"/>
+	<card name="Tides of Chaos" ID="32" description="Enemy creatures in target node take 2 damage during nighttime for 5 rounds" alliance="Citadel" type="Boon" rarity="Common"/>
+	<card name="Bane" ID="33" description="Deals 2 damage." alliance="Citadel" type="Spell" rarity="Common"/>
+	<card name="Beguiling Strike" ID="34" description="Target creature's next attack inflicts fear." alliance="Citadel" type="Spell" rarity="Rare"/>
+	<card name="Blight" ID="35" description="Target creature is returned to your opponent" alliance="Citadel" type="Spell" rarity="Common"/>
+	<card name="Chain Spirit" ID="36" description="Target creature cannot be brought below 1 hp this round." alliance="Citadel" type="Spell" rarity="Epic"/>
+	<card name="Death Whisper" ID="37" description="Target creature takes 8 damage if isolated, or half that if in a group." alliance="Citadel" type="Spell" rarity="Legendary"/>
+	<card name="Delirium" ID="38" description="Target creature cannot attune and has a 0.33 chance to attack the wrong enemy for 2 rounds." alliance="Citadel" type="Spell" rarity="Epic"/>
+	<card name="Drain Soul" ID="39" description="Deals 4 damage, heals friendly creature for 2." alliance="Citadel" type="Spell" rarity="Rare"/>
+	<card name="Elusive" ID="40" description="Friendly creature's next attack ignores guards." alliance="Citadel" type="Spell" rarity="Common"/>
+	<card name="Fear" ID="41" description="Deals 1 damage and inflicts fear." alliance="Citadel" type="Spell" rarity="Common"/>
+	<card name="Fiendish Resilience" ID="42" alliance="Citadel" type="Spell"/>
+	<card name="Fleshmelting Bolt" ID="43" description="Deals 3 damage for 3 rounds." alliance="Citadel" type="Spell" rarity="Rare"/>
+	<card name="Grim Transformation" ID="44" description="Target friendly creature gains +3/+2" alliance="Citadel" type="Spell" rarity="Rare"/>
+	<card name="Hand of Death" ID="45" alliance="Citadel" type="Spell" rarity="Epic"/>
+	<card name="Hex" ID="46" alliance="Citadel" type="Spell" rarity="Common"/>
+	<card name="Shadow Barrage" ID="47" description="Deals 6 damage to all enemies in node." alliance="Citadel" type="Spell" rarity="Rare"/>
+	<card name="Shadow Orb" ID="48" description="Deals 3 damage to 2 targets, chance to inflict fear" alliance="Citadel" type="Spell" target="Creature" rarity="Common"/>
+	<card name="Thristing Spear" ID="49" alliance="Citadel" type="Spell"/>
+	<card name="Duskmire Leech" ID="50" description="There are things worse than mosquitoes in the muck beneath the Duskmire." alliance="Neutral" type="Creature" cost="0" attack="1" health="1" defense="0" range="Melee" target="Slot"/>
+	<card name="Carrion Crawler" ID="51" description="Give them a few hours and they'll eat everything but the heart." alliance="Neutral" type="Creature" cost="1" attack="1" health="2" defense="0" range="Melee" target="Slot"/>
+	<card name="Faerie Dragon" ID="52" description="They may not steal sheep or level towns, but they do have a nasty bite." alliance="Neutral" type="Creature" cost="1" attack="2" health="1" defense="0" range="Melee" target="Slot"/>
+	<card name="Hunting Dog" ID="53" description="It takes more than a simple spell to throw off their scent." alliance="Neutral" type="Creature" cost="2" attack="3" health="2" defense="0" range="Melee" target="Slot"/>
+	<card name="Kiirish Sellsword" ID="54" description="A handful of gold for a sword by your side: not a bad trade if you have a lot of enemies." alliance="Neutral" type="Creature" cost="2" attack="2" health="3" defense="0.1" range="Melee" target="Slot"/>
+	<card name="Half-Dragon Bladespinner" ID="55" description="It takes inhuman strength and precision to spin a blade for that long." alliance="Neutral" type="Creature" cost="3" attack="3" health="3" defense="0" range="Melee" target="Slot"/>
+	<card name="Unstable Construct" ID="56" description="Assembled from rubble and pure energy, it could burst apart at the softest touch." alliance="Neutral" type="Creature" cost="3" attack="3" health="1" defense="0" range="Ranged" target="Slot"/>
+	<card name="Dire Wolf" ID="57" description="Once you hear their howls, all you can do is pray they're after someone else." alliance="Neutral" type="Creature" cost="4" attack="4" health="5" defense="0" range="Melee" target="Slot"/>
+	<card name="Greyhoof Chieftan" ID="58" description="Strongest of all the centaur, he bested many to gain his title." alliance="Neutral" type="Creature" cost="5" attack="4" health="6" defense="0" range="Melee" target="Slot"/>
+	<card name="Greyhoof Pikeman" ID="59" description="More often than not, those who threaten the tribe find themselves on the end of a Greyhoof pike." alliance="Neutral" type="Creature" cost="5" attack="4" health="4" defense="0" range="Melee" target="Slot"/>
+	<card name="Karani Packlord" ID="60" description="Pity those who threaten its kin." alliance="Neutral" type="Creature" cost="5" attack="5" health="4" defense="0" range="Melee" target="Slot"/>
+	<card name="Karani Shaman" ID="61" description="The Karani are timid explorers, except in the realm of voodoo magics." alliance="Neutral" type="Creature" cost="5" attack="3" health="5" defense="0" range="Ranged" target="Slot"/>
+	<card name="Earth Elemental" ID="62" description="Even the ground beneath our feet can be changed with enough mana." alliance="Neutral" type="Creature" cost="6" attack="5" health="5" defense="0" range="Melee" target="Slot"/>
+	<card name="Fire Elemental" ID="63" description="They're born when spent mana merges with flame." alliance="Neutral" type="Creature" cost="6" attack="6" health="7" defense="0" range="Melee" target="Slot"/>
+	<card name="Giant Centipede" ID="64" description="What were they feeding that thing??" alliance="Neutral" type="Creature" cost="6" attack="4" health="7" defense="0" range="Melee" target="Slot"/>
+	<card name="Water Elemental" ID="65" description="All that excess mana has to go somewhere. Next time don't wash your car with it." alliance="Neutral" type="Creature" cost="6" attack="4" health="5" defense="0" range="Melee" target="Slot"/>
+	<card name="Wind Elemental" ID="66" description="A swirling tempest starving for more energy, it was born of wind and mana." alliance="Neutral" type="Creature" cost="6" attack="5" health="2" defense="0.2" range="Ranged" target="Slot"/>
+	<card name="Arakki Battlelord" ID="67" description="Master tacticians, the Arakki thrive on the front lines." alliance="Neutral" type="Creature" cost="7" attack="9" health="5" defense="0" range="Melee" target="Slot"/>
+	<card name="Hill Giant" ID="68" description="They're as massive as a boulder. As smart as one too." alliance="Neutral" type="Creature" cost="7" attack="7" health="7" defense="0" range="Melee" target="Slot"/>
+	<card name="Storm Giant" ID="69" description="The winds pick up, the waves thrash about, and from the fog he emerges." alliance="Neutral" type="Creature" cost="8" attack="8" health="8" defense="0" range="Melee" target="Slot"/>
+	<card name="Gargantuan Treant" ID="70" description="Its duty is to protect the forests. They are usually quite passive, unless you start a fire." alliance="Neutral" type="Creature" cost="9" attack="8" health="8" defense="0" range="Melee" target="Slot"/>
+	<card name="Stone Giant" ID="71" description="Besides the occasional meal, they spend most of their time lying dormant in caves." alliance="Neutral" type="Creature" cost="9" attack="4" health="12" defense="0" range="Melee" target="Slot"/>
+	<card name="Chained Goliath" ID="72" description="They used to prey on humanity, now they're our slaves." alliance="Neutral" type="Creature" cost="10" attack="10" health="10" defense="0" range="Melee" target="Slot"/>
+	<card name="Angry Walrus" ID="73" description="Roughly 15.4 times stronger than an average walrus." alliance="Neutral" type="Creature" cost="11" attack="11" health="8" defense="0" range="Melee" target="Slot"/>
+	<card name="Demigod" ID="74" description="The power of a god with the temperment of a human. What could possibly go wrong?" alliance="Neutral" type="Creature" cost="11" attack="9" health="11" defense="0" range="Melee" target="Slot"/>
+	<card name="Elder Dragon" ID="75" description="Its claws can pierce through stone; its roar can shatter bones." alliance="Neutral" type="Creature" cost="12" attack="11" health="10" defense="0" range="Melee" target="Slot"/>
+	<card name="World Guardian" ID="76" description="Built in The Forgotten Ages. They awaken when the world's fate is threatened." alliance="Neutral" type="Creature" cost="12" attack="4" health="20" defense="0" range="Melee" target="Slot"/>
+	<card name="Earthquake" ID="77" alliance="Neutral" type="Boon"/>
+	<card name="Form Ranks" ID="78" description="All friendly creatures may move positions" alliance="Neutral" type="Boon"/>
+	<card name="Inspire" ID="79" description="Gives friendly creatures +2 attack for 1 turn" alliance="Neutral" type="Boon"/>
+	<card name="Rally" ID="80" description="Draws the next two creatures in your deck" alliance="Neutral" type="Boon"/>
+	<card name="Clairvoyance" ID="81" description="View the top 2 cards of your opponent's deck." alliance="Neutral" type="Spell"/>
+	<card name="Fireball" ID="82" description="Deals 8 damage." alliance="Neutral" type="Spell"/>
+	<card name="Great Storm" ID="83" alliance="Neutral" type="Spell"/>
+	<card name="Remain Vigilant" ID="84" description="Target friendly creature guards" alliance="Neutral" type="Spell"/>
+	<card name="Silence" ID="85" description="Target creature is silenced." alliance="Neutral" type="Spell"/>
+	<card name="Swap" ID="86" description="Swaps the positions of 2 allied creatures" alliance="Neutral" type="Spell" target="Friendly Creature"/>
+	<card name="Thunderwave" ID="87" alliance="Neutral" type="Spell"/>
+	<card name="Divine Omen" ID="88" description="Drains all remaining mana (x), heals creature for 2 damage at the end of each round for x rounds" alliance="Temple" type="Boon"/>
+	<card name="Hallowed Ground" ID="89" description="No new enemy creatures can enter target node during daytime for 3 rounds" alliance="Temple" type="Boon"/>
+	<card name="Sanctuary" ID="90" description="Friendly creatures in target node take no damage this round." alliance="Temple" type="Boon"/>
+	<card name="Daybreak" ID="91" description="Changes time to Day" alliance="Temple" type="Boon"/>
+	<card name="Wish" ID="92" alliance="Temple" type="Boon"/>
+	<card name="Pious Zealot" ID="93" alliance="Temple" type="Creature" cost="4" attack="3" health="3" range="Melee" target="Slot"/>
+	<card name="Exemplar of Radiance" ID="94" alliance="Temple" type="Creature" cost="8" attack="6" health="7" defense="0.33" range="Melee" target="Slot"/>
+	<card name="Athaliah, the Revered Adjudicator " ID="95" alliance="Temple" type="Creature" cost="12" attack="9" health="12" range="Melee" target="Slot"/>
+	<card name="Lightwhisper Monk" ID="96" alliance="Temple" type="Creature" cost="4" range="Melee" target="Slot"/>
+	<card name="Lightwhisper Guardian" ID="97" alliance="Temple" type="Creature" cost="6" range="Melee" target="Slot"/>
+	<card name="Sunbathed Cleric" ID="98" alliance="Temple" type="Creature" cost="3" range="Melee" target="Slot"/>
+	<card name="Silver Covenant Acolyte" ID="99" alliance="Temple" type="Creature" cost="2" range="Melee" target="Slot"/>
+	<card name="Lightstep Archer" ID="100" alliance="Temple" type="Creature" cost="3" range="Ranged" target="Slot"/>
+	<card name="Guardian Angel" ID="101" alliance="Temple" type="Creature" cost="5" range="Melee" target="Slot"/>
+	<card name="Lightstep Warden" ID="102" alliance="Temple" type="Creature" cost="4" range="Melee" target="Slot"/>
+	<card name="Silver Covenant Priest" ID="103" alliance="Temple" type="Creature" cost="1" range="Ranged" target="Slot"/>
+	<card name="Sunkeeper" ID="104" alliance="Temple" type="Creature" cost="7"/>
+	<card name="Brighteye Inquisitor" ID="105" alliance="Temple" type="Creature" cost="5"/>
+	<card name="Brighteye Sister" ID="106" alliance="Temple" type="Creature"/>
+	<card name="Gloryseeker" ID="107" alliance="Temple" type="Creature"/>
+	<card name="Sun Corona" ID="108" description="Deals 4 damage to all enemy creatures on target node. Can only be used during day." alliance="Temple" type="Spell"/>
+	<card name="Divine Blessing" ID="109" description="Target friendly creature gains +2/+3" alliance="Temple" type="Spell"/>
+	<card name="Purify" ID="110" description="Removes all debuffs from target creature." alliance="Temple" type="Spell"/>
+	<card name="Smite" ID="111" description="Deals 6 damage." alliance="Temple" type="Spell"/>
+	<card name="Mending Touch" ID="112" alliance="Temple" type="Spell"/>
+	<card name="Restoration" ID="113" description="Target creature heals 3 health for 2 rounds." alliance="Temple" type="Spell"/>
+	<card name="Sacred Flame" ID="114" alliance="Temple" type="Spell"/>
+	<card name="Cure Wounds" ID="115" alliance="Temple" type="Spell"/>
+	<card name="Heroism" ID="116" alliance="Temple" type="Spell"/>
+	<card name="True Strike" ID="117" description="Target creature's next attack deals double damage" alliance="Temple" type="Spell"/>
+	<card name="Sunburst" ID="118" description="A shining burst of 5 damage" alliance="Temple" type="Spell"/>
+	<card ID="119"/>
+	<card ID="120" type="Spell"/>
+	<card ID="121"/>
+	<card ID="122"/>
+	<card name="Battlelord" ID="123"/>
+	<card name="Warpriest" ID="124"/>
+	<card ID="125"/>
+	<card name="Warpriest" ID="126"/>
+</data-set>

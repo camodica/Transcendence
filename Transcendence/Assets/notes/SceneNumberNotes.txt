@@ -1,0 +1,10 @@
+////////////////////////////////////////////////////////////////////
+|     The following are the order scenes must be in when built     |
+////////////////////////////////////////////////////////////////////
+
+0 = Title
+1 = Combat Lobby
+2 = Combat
+3 = Deck Builder
+
+Note: After building in a new directory, add the scripts folder to the testBuildName_Data folder
